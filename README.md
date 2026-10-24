@@ -1,6 +1,6 @@
 # Hi, I'm Giacomo 👋
 
-**Robotics, Control & Embedded Systems Engineer** based in Bologna, Italy.
+**Robotics, Control & Embedded Systems Engineer** based in Modena, Italy.
 
 I hold an MSc in Automation Engineering from the University of Bologna (110/110 cum laude). For my thesis I worked on distributed control of orbital robot swarms, which we tested in a microgravity campaign at the **ESA Orbital Robotics Lab** (ESTEC). I also built a **ROS2 autonomous drone** that uses vision to land precisely without GPS. These days I write embedded firmware in industrial R&D, working across C++, PLCs and system integration on real machines.
 
