@@ -9,8 +9,15 @@ I hold an MSc in Automation Engineering from the University of Bologna (110/110 
 
 ### 🛰️ Selected projects
 - **Orbital Robot Swarms (MSc thesis, ESA Academy Experiments Programme):** distributed multi-robot control for Active Debris Removal and target encirclement. I built a mixed real/virtual simulation framework (ROS2, Gazebo, C++, Python) and validated it in microgravity at ESTEC.
-- **Autonomous Drone (NOE APS, co-founder):** ROS2/MAVROS on Raspberry Pi with visual odometry, visual servoing and pose estimation for GPS-independent precision landing, time-optimal trajectory planning, and a web Ground Control Station.
+- **Autonomous Drone (NOE APS, co-founder)** · [`drone-raspberrypi5`](https://github.com/giacomo2k2/drone-raspberrypi5): ROS2/MAVROS on Raspberry Pi with visual odometry, visual servoing and pose estimation for GPS-independent precision landing, time-optimal trajectory planning, and a web Ground Control Station.
 - **UniBo Motorsport (Formula Student), Control Systems Division Manager:** led a 6-person team working on torque vectoring, traction control, regenerative braking and EKF-based vehicle state estimation in MATLAB/Simulink, with VCU integration.
+
+### 🎓 Course projects (MSc Automation Engineering, UniBo)
+- [`optcon-flexible-arm`](https://github.com/giacomo2k2/optcon-flexible-arm): optimal control of a flexible double pendulum, using Newton's method trajectory generation with horizon extension, then LTV-LQR and MPC tracking.
+- [`AI-industry-dynamic-modeling`](https://github.com/giacomo2k2/AI-industry-dynamic-modeling): black-box, physics-informed (UDE, Lagrangian NN) and probabilistic neural models that learn double-pendulum dynamics and identify its physical parameters.
+- [`MSMS_robarm`](https://github.com/giacomo2k2/MSMS_robarm): bond-graph model of the UR5 manipulator in 20-sim, with harmonic drives, closed-form IK, PID with gravity compensation, and pick and place.
+- [`TiaGo_Mob_Robotics`](https://github.com/giacomo2k2/TiaGo_Mob_Robotics): autonomous exploration (SLAM), ArUco-based navigation and pick and place with a simulated TIAGo in ROS 2.
+- [`Playing-Cards-Recognition`](https://github.com/giacomo2k2/Playing-Cards-Recognition): a classical computer vision pipeline (Mahalanobis segmentation, blob analysis, ORB/SIFT matching) that recognises Italian playing cards in cluttered scenes.
 
 ### 🧰 Toolbox
 | Area | Tools & topics |
